@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="justify">
-  My name is Wendy and I am passionate about learning and using programming skills which I can utilize to solve real-life problems. My goal for this year is to land my first developer job! 
+  My name is Wendy and I am passionate about learning and using programming skills to solve real-life problems. My goal for this year is to land my first developer job! 
   </div>
 
 <!--### ⚡ Fun fact:
