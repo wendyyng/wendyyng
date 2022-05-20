@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - I have lived in 5 countries and speak 4 languages: English, Mandarin, Japanese and Malay -->
 
 ### 📫 How to reach me:
-[<img align="center" alt="Personal"  src="android-chrome-512x512.png" style="text-align: justify" width="40px"/>](https://wendyyng.netlify.app/)
+[<img align="center" alt="Personal"  src="android-chrome-512x512.png" style="text-align: justify" width="40px"/>](https://wendyng.netlify.app/)
 &nbsp;&nbsp;
 [<img align="center" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/wendyywng)
 &nbsp;&nbsp;
