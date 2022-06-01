@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="justify">
-  My name is Wendy and I am a student at the CodeCore Developer Bootcamp. Right now my focus is to learn everything that is related to Web Development 🖥️
+  My name is Wendy and I am a student at CodeCore Developer Bootcamp. Right now my focus is to learn everything that is related to Web Development 🖥️
   </div>
 
 <!--### ⚡ Fun fact:
