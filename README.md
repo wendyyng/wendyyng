@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 &nbsp;&nbsp; -->
 [<img align="center" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/wendyywng)
 &nbsp;&nbsp;
-[<img align="center" alt="Twitter"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:5px;" width="26px"/>](https://twitter.com/wendyywng)
-&nbsp;&nbsp;
+<!--### [<img align="center" alt="Twitter"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:5px;" width="26px"/>](https://twitter.com/wendyywng)
+&nbsp;&nbsp; -->
