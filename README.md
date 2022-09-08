@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="justify">
-  My name is Wendy and I am full-stack developer 🖥️ based in Vancouver, BC, Canada 🍁. Feel free to connect with me on LinkedIn!
+  My name is Wendy and I am full-stack developer 👩‍💻 based in Vancouver, BC, Canada 🍁. Feel free to connect with me on LinkedIn!
   </div>
 
 <!--### ⚡ Fun fact:
 - I have a background in international relations and accounting
 - I have lived in 5 countries and speak 4 languages: English, Mandarin, Japanese and Malay -->
 
-## 🛠 Languages and Tools
+## 🖥️ Languages and Tools
 <p>
 <img alt="javascript" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img alt="nodejs" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
