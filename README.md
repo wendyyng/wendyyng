@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to reach me:
-<!--### [<img align="center" alt="Personal"  src="android-chrome-512x512.png" style="text-align: justify" width="40px"/>](https://wendyng.netlify.app/)
-&nbsp;&nbsp; -->
+[<img align="center" alt="Personal"  src="android-chrome-512x512.png" style="text-align: justify" width="40px"/>](https://wendy-ng-portfolio.vercel.app/)
+&nbsp;&nbsp;
 [<img align="center" alt="Linkedin" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/wendyywng)
 &nbsp;&nbsp;
 <!--### [<img align="center" alt="Twitter"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:5px;" width="26px"/>](https://twitter.com/wendyywng)
