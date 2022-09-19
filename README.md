@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="justify">
-  My name is Wendy and I am a full-stack developer 👩‍💻 based in Vancouver, BC, Canada 🍁. Feel free to connect with me on LinkedIn!
+  My name is Wendy and I am a full-stack developer 👩‍💻 based in Vancouver, BC, Canada 🍁. 
+<!--  Feel free to connect with me on LinkedIn! -->
   </div>
 
 <!--### ⚡ Fun fact:
