@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 </p>
 
+## ✍ Currently Reviewing/Learning
+- React, Data Structures and Algorithms
 
 ## 📫 How to reach me:
 [<img align="center" alt="Personal"  src="android-chrome-512x512-removebg-pink.png" style="text-align: justify" width="40px"/>](https://wendy-ng.vercel.app/)
