@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <img alt="mongodb" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img alt="jquery" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
 <img alt="rspec" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
+<img alt="jest" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
 <img alt="git" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img alt="heroku" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 <img alt="netlify" height="48px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
