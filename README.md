@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </div>
   </br>
   
-![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendyyng&show_icons=true&theme=tokyonight)
+![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendyyng&show_icons=true&theme=merko)
 
 <!--### ⚡ Fun fact:
 - I have a background in international relations and accounting
