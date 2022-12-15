@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - I have a background in international relations and accounting
 - I have lived in 5 countries and speak 4 languages: English, Mandarin, Japanese and Malay -->
 
-## 🖥️ Languages and Tools
+## 🖥️ Languages and tools
 <p>
 <img alt="javascript" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img alt="typescript" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
