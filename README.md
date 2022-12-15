@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <div align="justify">
   My name is Wendy and I am a full-stack developer 👩‍💻 based in Vancouver BC, Canada 🍁. 
+[![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendyyng)](https://github.com/wendyyng/github-readme-stats)
+
 <!--  Feel free to connect with me on LinkedIn! -->
   </div>
 
