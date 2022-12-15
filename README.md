@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <div align="justify">
   My name is Wendy and I am a full-stack developer 👩‍💻 based in Vancouver BC, Canada 🍁. 
-[![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendyyng)](https://github.com/wendyyng/github-readme-stats)
+
 
 <!--  Feel free to connect with me on LinkedIn! -->
   </div>
-
+[![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendyyng)](https://github.com/wendyyng/github-readme-stats)
 <!--### ⚡ Fun fact:
 - I have a background in international relations and accounting
 - I have lived in 5 countries and speak 4 languages: English, Mandarin, Japanese and Malay -->
