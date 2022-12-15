@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--  Feel free to connect with me on LinkedIn! -->
   </div>
-  
+  </br>
 [![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendyyng)](https://github.com/wendyyng/github-readme-stats)
 
 <!--### ⚡ Fun fact:
