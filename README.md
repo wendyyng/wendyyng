@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </div>
   </br>
   
-[![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendyyng)](https://github.com/wendyyng/github-readme-stats)
+[![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendyyng&show_icons=true)](https://github.com/wendyyng/github-readme-stats)
 
 <!--### ⚡ Fun fact:
 - I have a background in international relations and accounting
