@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="justify">
-  My name is Wendy and I really love the 'aha' moments in programming and am passionate about making efficient, beautiful and user-friendly web applications.
+  I really love the 'aha' moments in programming and am passionate about making efficient, beautiful and user-friendly web applications.
 
 
 <!--  Feel free to connect with me on LinkedIn! -->
