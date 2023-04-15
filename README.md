@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="justify">
-  I really love the 'aha' moments in programming and am passionate about making efficient, beautiful and user-friendly web applications.
+  Hi, I am Wendy Ng, a full-stack developer based in Vancouver BC, Canada. I really love the 'aha' moments in programming and am passionate about making efficient, beautiful and user-friendly web applications.
 
 
 <!--  Feel free to connect with me on LinkedIn! -->
