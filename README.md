@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="justify">
-  I'm Wendy Ng, a software developer with experience working as a frontend developer at PlaceSpeak. I thrive on the 'aha' moments in programming and am passionate about creating efficient, beautiful, and user-friendly web applications. I speak English, Mandarin, and Japanese. /n In my previous position as a frontend developer at PlaceSpeak, I led the homepage redesign, implemented complex client-requested features, and focused on UI/UX enhancements. I'm currently seeking a full-time position in web development where I can continue to grow and make a meaningful impact. Welcome to my GitHub profile!
+  I'm Wendy Ng, a software developer with experience working as a frontend developer at PlaceSpeak. I thrive on the 'aha' moments in programming and am passionate about creating efficient, beautiful, and user-friendly web applications. I speak English, Mandarin, and Japanese.<br><br>In my previous position as a frontend developer at PlaceSpeak, I led the homepage redesign, implemented complex client-requested features, and focused on UI/UX enhancements. I'm currently seeking a full-time position in web development where I can continue to grow and make a meaningful impact. Welcome to my GitHub profile!
 
 
 <!--  Feel free to connect with me on LinkedIn! -->
