@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="justify">
-  I'm Wendy Ng, a software developer who is passionate about creating efficient, beautiful, and user-friendly web applications. Originally from Malaysia, born in Japan, and having studied and worked in Canada, I am able to speak English, Mandarin, Japanese, and Malay. <br><br>
+  I'm Wendy Ng, a software developer who is passionate about creating efficient, beautiful, and user-friendly web applications. <br><br>
 
 In my previous position as a frontend developer at PlaceSpeak, I led the homepage redesign, implemented complex client-requested features, and focused on UI/UX improvements. I'm currently seeking a full-time position in web development where I can continue to grow and make a meaningful impact. Welcome to my GitHub profile!
 
