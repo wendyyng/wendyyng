@@ -32,10 +32,14 @@ In my previous position as a frontend developer at PlaceSpeak, I led the homepag
 - I have lived in 5 countries and speak 4 languages: English, Mandarin, Japanese and Malay -->
 
 ## 👩‍💻 Recent projects:
-### Personal Portfolio Website featuring Personal Chatbot Powered by GPT-3.5 Turbo API
+### Portfolio Website featuring Personal Chatbot Powered by GPT-3.5 Turbo API
 ![ezgif-7-5192942e8f](https://github.com/user-attachments/assets/281730e5-2be0-4526-975f-903c388c7f00)
 
 Try it yourself: https://wendy-ng.vercel.app/
+- Frontend: https://github.com/wendyyng/react-portfolio
+- Backend: https://github.com/wendyyng/wendy-bot
+
+<hr>
 
 ### PlaceSpeak's New Home Page Launch
 ![Whiteboarding-2-820x394](https://github.com/user-attachments/assets/57afcde1-2c43-4d89-aa9b-41a5e2f9344a)
@@ -51,6 +55,7 @@ Check out the company blog post: https://blog.placespeak.com/new-home-page-and-n
 <img alt="express" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img alt="python" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img alt="django" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img alt="flask" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 <img alt="html5" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img alt="css3" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img alt="sass" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -64,6 +69,9 @@ Check out the company blog post: https://blog.placespeak.com/new-home-page-and-n
 <img alt="rspec" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
 <img alt="jest" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img alt="git" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img alt="aws" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img alt="docker" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img alt="nginx" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
 <img alt="heroku" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 <img alt="netlify" height="48px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
 
