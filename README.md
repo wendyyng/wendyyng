@@ -31,7 +31,18 @@ In my previous position as a frontend developer at PlaceSpeak, I led the homepag
 - I have a background in international relations and accounting
 - I have lived in 5 countries and speak 4 languages: English, Mandarin, Japanese and Malay -->
 
-## 🖥️ Languages and tools
+## 👩‍💻 Recent projects:
+### Personal Portfolio Website featuring Personal Chatbot Powered by GPT-3.5 Turbo API
+![ezgif-7-5192942e8f](https://github.com/user-attachments/assets/281730e5-2be0-4526-975f-903c388c7f00)
+
+Try it yourself: https://wendy-ng.vercel.app/
+
+### PlaceSpeak's New Home Page Launch
+![Whiteboarding-2-820x394](https://github.com/user-attachments/assets/57afcde1-2c43-4d89-aa9b-41a5e2f9344a)
+
+Check out the company blog post: https://blog.placespeak.com/new-home-page-and-news-feed-launch/
+
+## 🖥️ Languages and tools:
 <p>
 <img alt="javascript" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img alt="typescript" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
