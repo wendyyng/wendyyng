@@ -42,7 +42,9 @@ Try it yourself: https://wendy-ng.vercel.app/
 <hr>
 
 ### PlaceSpeak's New Home Page Launch
-![Whiteboarding-2-820x394](https://github.com/user-attachments/assets/57afcde1-2c43-4d89-aa9b-41a5e2f9344a)
+<!--### ![Whiteboarding-2-820x394](https://github.com/user-attachments/assets/57afcde1-2c43-4d89-aa9b-41a5e2f9344a) -->
+![e71bd99d-a751-4074-82ee-e0ea171698f5-2](https://github.com/user-attachments/assets/751f1064-489d-4451-9d94-26a532091e26)
+
 
 Check out the company blog post: https://blog.placespeak.com/new-home-page-and-news-feed-launch/
 
