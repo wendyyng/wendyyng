@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="justify">
+<!--<div align="justify">
   I'm Wendy Ng, a software developer who is passionate about creating efficient, beautiful, and user-friendly web applications. <br><br>
 
 In my previous position as a frontend developer at PlaceSpeak, I led the homepage redesign, implemented complex client-requested features, and focused on UI/UX improvements. I'm currently seeking a full-time position in web development where I can continue to grow and make a meaningful impact. Welcome to my GitHub profile!
-
+-->
 
 <!--  Feel free to connect with me on LinkedIn! -->
   </div>
