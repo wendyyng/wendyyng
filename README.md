@@ -32,7 +32,7 @@ In my previous position as a frontend developer at PlaceSpeak, I led the homepag
 - I have lived in 5 countries and speak 4 languages: English, Mandarin, Japanese and Malay -->
 
 ## 👩‍💻 Recent projects:
-### Portfolio Website featuring Personal Chatbot Powered by GPT-4o-mini API
+### Portfolio Website featuring Personal Chatbot Powered by GPT-4.1-mini API
 ![ezgif-7-5192942e8f](https://github.com/user-attachments/assets/281730e5-2be0-4526-975f-903c388c7f00)
 
 Try it yourself: https://wendy-ng.vercel.app/
